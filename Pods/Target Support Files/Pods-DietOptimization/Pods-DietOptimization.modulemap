@@ -1,0 +1,6 @@
+framework module Pods_DietOptimization {
+  umbrella header "Pods-DietOptimization-umbrella.h"
+
+  export *
+  module * { export * }
+}
